@@ -21,18 +21,11 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-void spate660_akarn4() {
-
-  printf("Shriraj Patel and Anagha Karnik\n");
-  printf("We learned a lot about the cloning process when using git as well as how to clone an existing repository from github through the terminal.\n");
-}
-
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    spate660_akarn4();
     
     return 0;
 }
