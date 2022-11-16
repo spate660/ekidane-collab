@@ -23,7 +23,7 @@ void reed_ekidan2() {
 
 void spate660_akarn4() {
   
-  printf("Shriraj Ptel and Anagha Karnik\n");
+  printf("Shriraj Patel and Anagha Karnik\n");
   printf("We learned a lot about the cloning process when using git as well as how to clone an existing repository from github through the terminal.\n");
 }
 
